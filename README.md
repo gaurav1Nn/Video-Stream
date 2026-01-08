@@ -189,7 +189,7 @@ Create `.env` file:
 
 ```env
 PORT=5000
-MONGO_URI=mongodb+srv://username:password@cluster.mongodb.net/videos
+MONGO_URI=your mongo_db url
 JWT_ACCESS_SECRET=your_access_secret_key_here
 JWT_REFRESH_SECRET=your_refresh_secret_key_here
 CLOUDINARY_CLOUD_NAME=your_cloud_name
